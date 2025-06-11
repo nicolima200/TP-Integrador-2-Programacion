@@ -51,7 +51,7 @@ TPi-Programacion.I/
 ## 🎥 Video demostrativo
 
 📹 Explicación detallada del proyecto y demostración:
-https://www.youtube.com/watch?v=P6D-8XQRnrI 
+https://youtu.be/xAJoDTE2N3Y
 
 ---
 
